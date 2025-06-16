@@ -9,7 +9,7 @@
 I'm a **Machine Learning Engineer** with hands-on experience building intelligent chatbots and working with powerful tools like **LangChain** and **OpenAI** APIs.
 
 - 🧠 Built a **food recommendation chatbot** using users' palates with **LangChain** and **OpenAI**, deployed during my internship at a startup.
-- 🎓 Created a **course recommendation chatbot** for the [MuktiRath](https://muktirath.com) website, delivering personalized course suggestions with **YouTube links**.
+- 🎓 Created a **course recommendation chatbot** for the [uktiRath website, delivering personalized course suggestions with **YouTube links**.
 - 🌱 Currently diving into the world of **Open Source Contributions** – always excited to learn, collaborate, and grow!
 
 ---
@@ -36,7 +36,7 @@ I'm looking to:
 
 - 📧 Email: [codedakshat@gmail.com](mailto:codedakshat@gmail.com)
 - 📱 Phone: +91 92058 74293
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link) *(Optional – add if you have one)*
+- 💼 [LinkedIn](www.linkedin.com/in/akshat-jha-a17b31298)
 
 ---
 
