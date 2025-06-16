@@ -34,16 +34,9 @@ I'm looking to:
 
 ###  How to Reach Me
 
-- 📧 Email: [codedakshat@gmail.com](mailto:codedakshat@gmail.com)
-- 📱 Phone: +91 92058 74293
-- 💼 [LinkedIn](www.linkedin.com/in/akshat-jha-a17b31298)
+-  Email: [codedakshat@gmail.com](mailto:codedakshat@gmail.com)
+-  Phone: +91 92058 74293
+-  [LinkedIn](www.linkedin.com/in/akshat-jha-a17b31298)
 
----
-
-### ⚡ Fun Fact
-
-I love turning AI models into real-world, helpful tools. Chatbots aren’t just for fun – they can **guide, recommend, and even empower learning** 🚀
-
----
 
 _Thanks for stopping by!_ 🌟
